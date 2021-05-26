@@ -1,2 +1,2 @@
-# Petit-JS
-Here is a place for my small JS projects
+# Js Todo-List
+This is a simple to-do list which incoorperates HTML, CSS, and JavaScript
