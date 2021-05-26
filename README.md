@@ -1,2 +1,2 @@
-# Petit-JS
-Here is a place for my small JS projects
+# JS Counter
+In this project, the number displayed on a page increments/decrements depending on which button the user clicks
