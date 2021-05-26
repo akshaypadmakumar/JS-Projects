@@ -1,2 +1,2 @@
-# Petit-JS
-Here is a place for my small JS projects
+# JS Background Color Changer
+In this project, the background color changes upon the cilck of a button
